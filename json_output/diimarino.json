@@ -1,0 +1,38 @@
+ ____   ____   ___  ____   ____   ____   _      _____         ____  __   __
+|  _ \ |  _ \ |_ _|| __ ) | __ ) | __ ) | |    | ____|       |  _ \ \ \ / /
+| | | || |_) | | | |  _ \ |  _ \ |  _ \ | |    |  _|   _____ | |_) | \ V / 
+| |_| ||  _ <  | | | |_) || |_) || |_) || |___ | |___ |_____||  __/   | |  
+|____/ |_| \_\|___||____/ |____/ |____/ |_____||_____|       |_|      |_|  
+                                                                           
+
+version 0.0.1
+
+🔍 Searching for user diimarino...
+
+✓ diimarino found
+
+Profile URL     : https://dribbble.com/diimarino/
+
+✓ Goods page scraped...
+
+✓ Projects page scraped...
+
+An error occurred while requesting URL('https://dribbble.comhttps//www.behance.net/marinos').
+ [Errno 8] nodename nor servname provided, or not known
+Shots           : 0
+Projects        : 0
+Collections     : 0
+Liked Shots     : 0
+
+✓ Main page scraped...
+
+✓ Members page scraped...
+
+✓ Collections page scraped...
+
+✓ Shots page scraped...
+
+Results saved to diimarino.json
+
+Scraping took 5.86 second(s)...
+
